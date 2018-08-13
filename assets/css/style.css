@@ -1,0 +1,34 @@
+body, a{
+	color: #455C64;
+}
+a:hover, a:visited{
+	color: #F56956;
+}
+header a{
+	color: #4cbce5;
+}
+.ttz-mv-link-container{
+	padding: 0 10px;
+	margin: 0; 
+}
+.ttz-mv-link-container li{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.ttz-mv-link-container li a{
+	
+}
+.ttz-mv-link-container li a h2{
+	font-size: 14px;
+	line-height: 18px;
+	display: inline-block;
+	margin: 2px 0;
+}
+.ttz-mv-link-container li a h4{
+	font-size: 12px;
+	line-height: 18px;
+	display: inline-block;
+	color: #F56956;
+	margin: 2px 0;
+}
