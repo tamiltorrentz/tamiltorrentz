@@ -35,9 +35,10 @@ header a{
 .requestMovieModal{
 	width: 100%;
   background: #f56956eb;
-  color: #fff;
+  color: #fff !important;
   padding: 10px;
   font-weight: bold;
   position: fixed;
   bottom: 0;
+  text-align: center;
 }

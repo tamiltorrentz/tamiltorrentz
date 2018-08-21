@@ -3,7 +3,7 @@ $(document).ready(function(){
 	var ttz_data;
 
 	$.get("assets/js/ttz.json", function(data, status){
-		debugger
+		// debugger
 		ttz_data = data.reverse();
 
         for(var ttz = 0; ttz <= ttz_data.length; ttz++){
